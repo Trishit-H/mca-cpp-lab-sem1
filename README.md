@@ -32,7 +32,7 @@ The offical lab manual with all the weekly questions is available [here](./lab_m
 - [x]  Week 4 – Completed
 - [x]  Week 5 – Completed
 - [x]  Week 6 – Completed
-- [x]  Week 7 – Pending
+- [ ]  Week 7 – Pending
 
 
 # 📌 Note
