@@ -22,7 +22,7 @@ This repository contains my weekly C++ and MySql lab assignments for **SEMESTER 
 
 
 ## 📖 Lab Manual
-The offical lab manual with all the weekly questions is available [here](./lab_manual_CAMS1P01.pdf).
+The offical lab manual with all the weekly questions is available [here](lab_manual_CAMS1P01.pdf).
 
 
 ## ✅ Progress Tracker
